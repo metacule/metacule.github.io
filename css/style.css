@@ -30,7 +30,7 @@ body{
 	opacity: 0.8
 }
 .button_1:hover {
-    border: 2px solid #eB491d; 
+    border: 2px solid #1AE72D; 
 }
 header{
 	background:#000000;
@@ -46,12 +46,7 @@ header{
 
 header #branding{
 	float:left;
-	padding: 25px 5px 12px 26px;
-}
-
-header #branding h1{
-	margin:0;
-	line-height:0;
+	padding: 10px 2px 8px 12px;
 }
 
 #showcase{
@@ -168,7 +163,7 @@ footer a:visited{
 	color:#959595;
 }
 footer a:hover{
-	color:#FF6A00;
+	color:#1AE72D;
 }
 footer a:active{
 	color:#959595;
